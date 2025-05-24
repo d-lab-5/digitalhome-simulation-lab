@@ -48,4 +48,3 @@ digitalhome-simulation-lab/
     ├── launch/
     ├── msg/
     └── scripts/
-

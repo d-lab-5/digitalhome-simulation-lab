@@ -1,0 +1,5 @@
+{
+  "zones": [{"name": "ZoneA", "x": 0, "y": 0}, {"name": "ZoneB", "x": 5, "y": 0}],
+  "mower": {"x": 1, "y": 0.5},
+  "sensors": [{"type": "MoistureSensor", "x": 2, "y": 0.3}, {"type": "SolarSensor", "x": 4, "y": 0.3}]
+}
